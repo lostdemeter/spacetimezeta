@@ -90,15 +90,6 @@ For a more detailed analysis of the geodesic behavior, the following plot shows 
 
 This visualization helps understand the long-term behavior of geodesics and their interaction with the Riemann zeta function's critical strip.
 
-## Plan for Rigorous Proof
-See `plan.txt` for the step‑by‑step evolution from moral proof to rigorous argument, including:
-
-- Formalizing the metric with Connes' spectral triple.
-- Analytic geodesic proofs.
-- Equivalence theorem to RH.
-- Spectral action minimization.
-- Validation and contradictions.
-
 ## Dependencies
 
 Listed in `requirements.txt`. Key libraries: `mpmath`, `numpy`, `scipy`, `matplotlib`.
