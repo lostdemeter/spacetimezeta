@@ -88,7 +88,7 @@ For a more detailed analysis of the geodesic behavior, the following plot shows 
 
 ![Extended Freefall Plots](extended_freefall_plots.png)
 
-This visualization helps understand the long-term behavior of geodesics and their interaction with the Riemann zeta function's critical strip.
+This visualization helps understand the long-term behavior of geodesics and their interaction with the Riemann zeta function's critical strip. That value is 1.618 by the way... the golden ratio.
 
 ## Dependencies
 
